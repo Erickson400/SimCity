@@ -1,0 +1,28 @@
+﻿  Game.cpp
+c:\users\klod\desktop\game dev\c++\simcity\simcity\simcity\objects.cpp(17): warning C4309: 'initializing': truncation of constant value
+c:\users\klod\desktop\game dev\c++\simcity\simcity\simcity\objects.cpp(25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\klod\desktop\game dev\c++\simcity\simcity\simcity\objects.cpp(59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\klod\desktop\game dev\c++\simcity\simcity\simcity\game.cpp(5): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\klod\desktop\game dev\c++\simcity\simcity\simcity\game.cpp(6): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  Objects.cpp
+c:\users\klod\desktop\game dev\c++\simcity\simcity\simcity\objects.cpp(17): warning C4309: 'initializing': truncation of constant value
+c:\users\klod\desktop\game dev\c++\simcity\simcity\simcity\objects.cpp(25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\klod\desktop\game dev\c++\simcity\simcity\simcity\objects.cpp(59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  SimCity.vcxproj -> C:\Users\Klod\Desktop\Game Dev\C++\SimCity\SimCity\Debug\SimCity.exe
